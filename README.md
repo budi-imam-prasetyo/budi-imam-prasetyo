@@ -30,9 +30,8 @@
 | ------------------- | ------------------------------------ | --------------------------- |
 | HTML5 & CSS3        | Visual Studio Code                   | Git & GitHub                |
 | JavaScript (ES6+)   | Chrome DevTools                      | Responsive Design           |
-| React & Next.js     | Figma & Adobe XD                     | UI/UX Principles            |
+| Vue JS 3            | Figma, Penpot, Canva                 | UI/UX Principles            |
 | TypeScript          | Node.js & npm                        | Agile & Scrum methodologies |
-| Sass/SCSS           | GitHub Actions                       | Problem-solving             |
 
 </div>
 
