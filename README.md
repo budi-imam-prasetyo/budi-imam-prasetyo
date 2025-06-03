@@ -43,4 +43,6 @@ Explore my projects:
 
 - [Personal Website](http://budi-imam-prasetyo.github.io/Portofolio-Ketiga/) – A responsive portfolio built with HTML, CSS, and JavaScript.
 - [Ryo Dev VSCode Extension](https://marketplace.visualstudio.com/items?itemName=budiimamprsty.ryodev) – A handy toolkit to accelerate web development.
+- [Automation-Microsoft-Bing-Rewards](https://github.com/budi-imam-prasetyo/Automation-Microsoft-Bing-Rewards) – Automate searches based on a list of keywords.
+- [Ryo-News](https://github.com/budi-imam-prasetyo/Ryo-News) – News page with modern design.
 - *(More projects coming soon!)*
