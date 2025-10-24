@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hey there! I'm Budi Imam Prasetyo
+# <div align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hey there! I'm Budi Imam Prasetyo</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6B46C1&center=true&vCenter=true&random=false&width=600&lines=Web+Developer;Laravel+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
@@ -15,8 +15,6 @@
 </div>
 
 ## 🚀 About Me
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🎓 **Computer Science Student** passionate about crafting elegant solutions
 - 💻 **Fullstack Developer** with a love for backend architecture
