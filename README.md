@@ -8,7 +8,7 @@
   <br/>
   
   <!-- Dynamic Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&random=false&width=650&lines=%E2%9A%A1+Fullstack+Web+Developer;%F0%9F%94%A5+Laravel+%26+Vue.js+Specialist;%F0%9F%8C%9F+Open+Source+Enthusiast;%F0%9F%9A%80+Building+Scalable+Solutions;%F0%9F%8E%AF+Clean+Code+Advocate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&random=false&width=650&lines=%E2%9A%A1+Fullstack+Web+Developer;%F0%9F%8C%9F+Open+Source+Enthusiast;%F0%9F%9A%80+Building+Scalable+Solutions;%F0%9F%8E%AF+Clean+Code+Advocate" alt="Typing SVG" />
 
 </div>
 
@@ -60,7 +60,7 @@ const budi = {
     roles: ["Fullstack Developer", "UI/UX Enthusiast", "Problem Solver"],
     currentFocus: "Building scalable web applications",
     funFact: "I believe clean code is poetry written for machines",
-    motto: "Code with passion, debug with patience"
+    motto: "Turning Concepts into Code"
 };
 ```
 
@@ -217,12 +217,6 @@ const budi = {
 
 <div align="center">
 
-<!-- Stats Grid -->
-<p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=budi-imam-prasetyo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=ffffff&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=budi-imam-prasetyo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=ffffff&langs_count=8" alt="Top Languages"/>
-</p>
-
 <!-- Streak Stats -->
 <p>
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=budi-imam-prasetyo&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=6366F1&fire=FF6B6B&currStreakLabel=8B5CF6" alt="GitHub Streak"/>
@@ -262,18 +256,6 @@ const budi = {
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Headphone.png" alt="Headphone" width="30" height="30" /> &nbsp;Spotify Playing
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31fswmldtvowpysah6so2xyepv7e">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fswmldtvowpysah6so2xyepv7e&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=8b5cf6&bar_color_cover=false" alt="Spotify"/>
-  </a>
-</div>
-
-<br/>
-
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" height="30" /> &nbsp;Let's Connect & Collaborate!
 
