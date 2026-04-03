@@ -8,7 +8,7 @@
   <br/>
   
   <!-- Dynamic Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&random=false&width=650&lines=%E2%9A%A1+Fullstack+Web+Developer;%F0%9F%8C%9F+Open+Source+Enthusiast;%F0%9F%9A%80+Building+Scalable+Solutions;%F0%9F%8E%AF+Clean+Code+Advocate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?afont=JetBrains+Mono&weight=600&size=24&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&random=false&width=650&lines=%E2%9A%A1+Fullstack+Web+Developer;%F0%9F%8C%9F+Open+Source+Enthusiast;%F0%9F%9A%80+Building+Scalable+Solutions;%F0%9F%8E%AF+Clean+Code+Advocate" alt="Typing SVG" />
 
 </div>
 
@@ -33,9 +33,6 @@
   <img src="https://komarev.com/ghpvc/?username=budi-imam-prasetyo&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge" alt="Profile Views" />
   <a href="https://github.com/budi-imam-prasetyo?tab=followers">
     <img src="https://img.shields.io/github/followers/budi-imam-prasetyo?label=Followers&style=for-the-badge&color=6366F1&logo=github" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/budi-imam-prasetyo?tab=repositories">
-    <img src="https://img.shields.io/badge/Total%20Repos-35+-3B82F6?style=for-the-badge&logo=github" alt="Total Repos" />
   </a>
   <img src="https://img.shields.io/badge/Open%20to-Work-10B981?style=for-the-badge&logo=openbadges&logoColor=white" alt="Open to Work"/>
 </div>
@@ -238,17 +235,6 @@ const budi = {
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=budi-imam-prasetyo&custom_title=Budi's%20Contribution%20Graph&hide_border=true&bg_color=0D1117&color=8B5CF6&line=6366F1&point=FF6B6B&area=true&area_color=8B5CF6" width="100%" alt="Contribution Graph"/>
-</div>
-
-<br/>
-
-<!-- GitHub Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  </picture>
 </div>
 
 <br/>
