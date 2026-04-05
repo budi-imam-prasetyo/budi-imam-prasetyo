@@ -1,18 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:3B82F6&height=200&section=header&text=Budi%20Imam%20Prasetyo&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Crafting%20Digital%20Experiences%20|%20Building%20the%20Future&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:3B82F6&height=200&section=header&text=Budi%20Imam%20Prasetyo&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <div align="center">
-  
-  <!-- Animated Title -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=100&lines=%F0%9F%91%8B+Welcome+to+my+Digital+Space!;Where+Code+Meets+Creativity" alt="Typing SVG" />
-  
-  <br/>
-  
   <!-- Dynamic Typing Animation -->
   <img src="https://readme-typing-svg.herokuapp.com?afont=JetBrains+Mono&weight=600&size=24&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&random=false&width=650&lines=%E2%9A%A1+Fullstack+Web+Developer;%F0%9F%8C%9F+Open+Source+Enthusiast;%F0%9F%9A%80+Building+Scalable+Solutions;%F0%9F%8E%AF+Clean+Code+Advocate" alt="Typing SVG" />
 
 </div>
 
-<br/>
+
 
 <!-- Animated Badges -->
 <div align="center">
@@ -27,7 +21,7 @@
   </a>
 </div>
 
-<br/>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=budi-imam-prasetyo&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge" alt="Profile Views" />
@@ -37,12 +31,11 @@
   <img src="https://img.shields.io/badge/Open%20to-Work-10B981?style=for-the-badge&logo=openbadges&logoColor=white" alt="Open to Work"/>
 </div>
 
-<br/>
 
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br/>
+
+
+
 
 <!-- About Me Section -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> &nbsp;About Me
@@ -61,21 +54,7 @@ const budi = {
 };
 ```
 
-<br/>
 
-### 🎯 Quick Highlights
-
-> 🎓 **Computer Science Student** passionate about crafting elegant digital solutions  
-> 💻 **Fullstack Developer** with expertise in backend architecture & clean APIs  
-> 🔭 Currently building **innovative web applications** that make a difference  
-> 🌱 Deep diving into **advanced system design & microservices architecture**  
-> 👯 Open to collaborate on **impactful open source projects**  
-> ⚡ Philosophy: **"Every line of code should tell a story"**
-
-<br clear="right"/>
-
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" height="30" /> &nbsp;Tech Arsenal
 
@@ -89,12 +68,12 @@ const budi = {
 
 ### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=php,js,ts,python,c,cs,html,css&theme=dark" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=c,java,php,js,ts,python,cs&theme=dark" alt="Languages"/>
 </p>
 
 ### 🚀 Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,vue,nextjs,express,bootstrap,tailwind&theme=dark" alt="Frameworks"/>
+  <img src="https://skillicons.dev/icons?i=laravel,vue,nextjs,express,tailwind&theme=dark" alt="Frameworks"/>
 </p>
 
 ### 🗄️ Database & Backend Services
@@ -109,30 +88,7 @@ const budi = {
 
 </div>
 
-<!-- Skill Bars -->
-<details>
-<summary><b>📊 Detailed Skill Proficiency</b></summary>
-<br/>
-
-| Technology | Proficiency | Experience |
-|:----------:|:-----------:|:----------:|
-| ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) | `████████████████████` | Expert |
-| ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) | `████████████████████` | Expert |
-| ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) | `██████████████████░░` | Advanced |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | `██████████████████░░` | Advanced |
-| ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | `████████████████████` | Expert |
-| ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | `██████████████████░░` | Advanced |
-| ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | `████████████████░░░░` | Intermediate |
-| ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) | `████████████████████` | Expert |
-
-</details>
-
-<br/>
-
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="30" height="30" /> &nbsp;Featured Projects
+## &nbsp;Featured Projects
 
 <div align="center">
 
@@ -205,10 +161,9 @@ const budi = {
 
 </div>
 
-<br/>
 
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="30" height="30" /> &nbsp;GitHub Analytics
 
@@ -226,10 +181,7 @@ const budi = {
 
 </div>
 
-<br/>
 
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" /> &nbsp;Contribution Activity
 
@@ -237,10 +189,9 @@ const budi = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=budi-imam-prasetyo&custom_title=Budi's%20Contribution%20Graph&hide_border=true&bg_color=0D1117&color=8B5CF6&line=6366F1&point=FF6B6B&area=true&area_color=8B5CF6" width="100%" alt="Contribution Graph"/>
 </div>
 
-<br/>
 
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" height="30" /> &nbsp;Let's Connect & Collaborate!
@@ -257,19 +208,19 @@ const budi = {
   <a href="https://github.com/budi-imam-prasetyo">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://instagram.com/budiiimam">
+  <a href="https://instagram.com/bdimamprasty">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
-<br/>
+
 
 <!-- Availability Status -->
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&random=false&width=700&lines=💼+Open+for+Freelance+Opportunities;🤝+Available+for+Open+Source+Collaboration;🚀+Let's+Build+Something+Amazing+Together!" alt="Status"/>
 
 </div>
 
-<br/>
+
 
 <!-- Quote Box -->
 <div align="center">
@@ -292,10 +243,9 @@ const budi = {
 </table>
 </div>
 
-<br/>
 
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20on%20Fire.png" alt="Heart on Fire" width="30" height="30" /> &nbsp;Support My Work
 
@@ -310,7 +260,7 @@ const budi = {
   </a>
 </div>
 
-<br/>
+
 
 <!-- Final Wave Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:3B82F6&height=120&section=footer" width="100%"/>
@@ -321,20 +271,15 @@ const budi = {
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="20" height="20" />
   
-  <br/><br/>
+  
   
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=500&lines=Thanks+for+visiting+my+profile!+%F0%9F%92%9C;Star+%E2%AD%90+my+repos+if+you+find+them+useful!;Happy+Coding!+%F0%9F%9A%80" alt="Footer Typing"/>
   
-  <br/><br/>
+  
   
   <p>
     <i>Crafted with <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="18" height="18" /> by <a href="https://github.com/budi-imam-prasetyo">Budi Imam Prasetyo</a></i>
   </p>
   
-  <p>
-    <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=flat-square&logo=markdown"/>
-    <img src="https://img.shields.io/badge/Powered%20by-GitHub-181717.svg?style=flat-square&logo=github"/>
-    <img src="https://img.shields.io/badge/Served%20with-☕%20Coffee-brown.svg?style=flat-square"/>
-  </p>
 
 </div>
