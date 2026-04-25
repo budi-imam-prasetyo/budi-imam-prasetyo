@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F0C29,50:302B63,100:24243E&height=200&section=header&text=Budi%20Imam%20Prasetyo&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F0C29,50:302B63,100:24243E&height=200&section=header&text=Budi%20Imam%20Prasetyo&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="100%"/>
 
 
 <!-- Animated Badges -->
@@ -41,7 +41,7 @@ const budi = {
 
 ### 🎯 Primary Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,php,vue,mysql,tailwind&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=laravel,vue,mysql,tailwind&theme=dark"/>
 </p>
 
 ### 💻 Programming Languages
@@ -106,7 +106,7 @@ const budi = {
 </div>
 
 
-## Let's Connect & Collaborate!
+## Connect & Collaborate!
 
 <div align="center">
 
