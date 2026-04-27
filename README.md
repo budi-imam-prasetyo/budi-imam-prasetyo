@@ -63,7 +63,7 @@ const budi = {
 
 ### 🗄️ Database & Backend Services
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,supabase,postgres,redis&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=mysql,supabase,postgres&theme=dark"/>
 </p>
 
 </td>
