@@ -11,9 +11,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=budi-imam-prasetyo&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge" alt="Profile Views"/>
-  <a href="https://github.com/budi-imam-prasetyo?tab=followers">
-    <img src="https://img.shields.io/github/followers/budi-imam-prasetyo?label=Followers&style=for-the-badge&color=6366F1&logo=github" alt="GitHub Followers"/>
-  </a>
 </div>
 
 <br>
