@@ -34,14 +34,17 @@ const budi = {
     <tr>
       <td valign="top" width="49%">
 
-### 🎯 Primary Stack
+### 🗄️ Database & Backend Services
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,vue,mysql,tailwind&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=mysql,supabase,postgres&theme=dark"/>
 </p>
 
 ### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,java,php,js,ts,python,cs&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=ts,python,cs&theme=dark"/>
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=c,java,php,js&theme=dark"/>
 </p>
 
 </td>
@@ -53,11 +56,13 @@ const budi = {
   <img src="https://skillicons.dev/icons?i=laravel,vue,nextjs,express,tailwind&theme=dark"/>
 </p>
 
-### 🗄️ Database & Backend Services
+### 🛠️ DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,supabase,postgres&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,ubuntu&theme=dark"/>
 </p>
-
+<p>
+  <img src="https://skillicons.dev/icons?i=arch,vscode,figma&theme=dark"/>
+</p>
 </td>
     </tr>
   </table>
@@ -66,9 +71,9 @@ const budi = {
     <tr>
       <td valign="top" width="100%">
 
-### 🛠️ DevOps & Tools
+### 🎯 Primary Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,ubuntu,arch,vscode,figma&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=laravel,vue,mysql,tailwind&theme=dark"/>
 </p>
 
 </td>
