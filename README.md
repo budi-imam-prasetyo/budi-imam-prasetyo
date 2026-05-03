@@ -41,10 +41,10 @@ const budi = {
 
 ### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,python,cs&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=ts,python,cs,js&theme=dark"/>
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=c,java,php,js&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=c,java,php&theme=dark"/>
 </p>
 
 </td>
