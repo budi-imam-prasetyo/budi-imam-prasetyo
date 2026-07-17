@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=budi-imam-prasetyo&theme=github-dark&hide_border=true&background=0D1117&stroke=404040&ring=FFFFFF&fire=BFBFBF&currStreakLabel=FFFFFF&dates=BFBFBF" alt="GitHub Streak"/>
+  <img width="70%" src="https://github-readme-streak-stats-eight.vercel.app/?user=budi-imam-prasetyo&theme=github-dark&hide_border=true&background=0D1117&stroke=404040&ring=FFFFFF&fire=BFBFBF&currStreakLabel=FFFFFF&dates=BFBFBF" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
