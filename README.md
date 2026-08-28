@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=budi-imam-prasetyo&custom_title=Budi's%20Contribution%20Graph&hide_border=true&bg_color=0D1117&color=FFFFFF&line=CFCFCF&point=FFFFFF&area=true&area_color=4A4A4A" alt="Contribution Graph"/>
+  <img width="100%" src="https://ryostats.vercel.app/api/activity/budi-imam-prasetyo?chart=line&period=30d&metric=contributions" alt="Contribution Graph"/>
 </div>
 
 <div align="center">
